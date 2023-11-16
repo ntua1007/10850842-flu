@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initi
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>流感疫苗施打推廣</title>
     <style>
         body {
@@ -63,12 +63,12 @@
 
 <body>
     <header>
-        <h1 style="color: rgb(255, 255, 255);">推廣流感疫苗
+        <h1 style="color: rgb(255, 255, 255);">推廣流感疫苗施打!!!</h1>
     </header>
 
     <section>
         <h2>為什麼需要接種流感疫苗？</h2>
-        <p>流感是一種嚴重的呼吸道疾病，可能導致嚴重的健康問
+        <p>流感是一種嚴重的呼吸道疾病，可能導致嚴重的健康問題甚至死亡。接種流感疫苗可
 
         <h2>流感疫苗的好處：</h2>
         <ul>
