@@ -1,4 +1,3 @@
-推廣施打疫苗
 <!DOCTYPE html>
 <html lang="zh-TW">
 
